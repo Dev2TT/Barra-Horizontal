@@ -1,7 +1,7 @@
 <p><strong>Projeto de Estudo</strong></p>
 
 <main>
-  <p>Projeto feito em aula!
+  <p>Projeto feito em aula!<br>
     - O que é?
       R: Um menu de navegação horizontal.
   </p>
